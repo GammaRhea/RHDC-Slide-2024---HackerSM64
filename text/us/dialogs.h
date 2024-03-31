@@ -12,25 +12,19 @@
 #define SCRAM "scram--"
 #endif
 
-DEFINE_DIALOG(DIALOG_000, 1, 6, 30, 200, _("\
-Wow! You're smack in the\n\
-middle of the battlefield.\n\
-You'll find the Power\n\
-Stars that Bowser stole\n\
-inside the painting\n\
-worlds.\n\
-First, talk to the\n\
-Bob-omb Buddy. (Press [B]\n\
-to talk.) He'll certainly\n\
-help you out, and so will\n\
-his " COMRADES " in other\n\
-areas.\n\
-To read signs, stop, face\n\
-them and press [B]. Press [A]\n\
-or [B] to scroll ahead. You\n\
-can talk to some other\n\
-characters by facing them\n\
-and pressing [B]."))
+DEFINE_DIALOG(DIALOG_000, 1, 6, 25, 200, _("\
+Welcome to the Sunshine\n\
+Secret Slide! There are\n\
+two stars in this stage.\n\
+One star for the finish,\n\
+the other for getting\n\
+50 coins on the way!\n\
+There are two paths\n\
+in the middle of the\n\
+slide, for coins and for\n\
+time, so have fun and\n\
+go quick as you slide\n\
+away to the bottom!"))
 
 DEFINE_DIALOG(DIALOG_001, 1, 4, 95, 200, _("\
 Watch out! If you wander\n\
@@ -134,18 +128,18 @@ Here you go--you've won\n\
 it, fair and square!"))
 
 DEFINE_DIALOG(DIALOG_008, 1, 4, 30, 200, _("\
-BEWARE OF CHAIN CHOMP\n\
-Extreme Danger!\n\
-Get close and press [C]^\n\
-for a better look.\n\
-Scary, huh?\n\
-See the Red Coin on top\n\
-of the stake?\n\
+YOU MADE IT!\n\
+Did you manage to grab\n\
+50 coins on the way down\n\
+for a star?\n\
+Scoreboard:\n\
+Reach the Bottom\n\
+0'33''6\n\
 \n\
-When you collect eight of\n\
-them, a Power Star will\n\
-appear in the meadow\n\
-across the bridge."))
+Scoreboard:\n\
+50 Coins and Goal\n\
+0'44''0\n\
+"))
 
 DEFINE_DIALOG(DIALOG_009, 1, 5, 30, 200, _("\
 Long time, no see! Wow,\n\
@@ -204,17 +198,17 @@ Would you like to Save?\n\
 //Yes////No"))
 
 DEFINE_DIALOG(DIALOG_013, 1, 5, 30, 200, _("\
-You've collected 100\n\
-coins! Mario gains more\n\
-power from the castle.\n\
+You've collected 50\n\
+coins! Mario feels more\n\
+relaxed in the sun\n\
 Do you want to Save?\n\
 //Yes////No"))
 
 DEFINE_DIALOG(DIALOG_014, 1, 4, 30, 200, _("\
 Wow! Another Power Star!\n\
-Mario gains more courage\n\
-from the power of the\n\
-castle.\n\
+Mario feels ready for\n\
+more fun in the sun!\n\
+\n\
 Do you want to Save?\n\
 \n\
 //You Bet//Not Now"))

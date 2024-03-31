@@ -37,7 +37,7 @@ void set_sparkle_spawn_star_hitbox(void) {
 }
 
 void spawned_star_set_target_above_mario(void) {
-    vec3f_copy_y_off(&o->oHomeVec, &gMarioObject->oPosVec, 250.0f);
+    vec3f_copy_y_off(&o->oHomeVec, &gMarioObject->oPosVec, 125.0f);
 
     // Check that the star isn't clipping inside the ceiling
     if (gMarioState->ceil != NULL) {

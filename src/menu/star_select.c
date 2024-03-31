@@ -1,3 +1,4 @@
+#include "src/game/texscroll.h"
 #include <PR/ultratypes.h>
 
 #include "audio/external.h"
@@ -135,7 +136,7 @@ void bhv_act_selector_init(void) {
                 sSelectableStarIndex = sVisibleStars;
             }
         }
-        sVisibleStars++;
+        //sVisibleStars++;
     }
 
     // If the stars have been collected in order so far, show the next star.
@@ -443,7 +444,7 @@ s32 lvl_update_obj_and_load_act_button_actions(UNUSED s32 arg, UNUSED s32 unused
         }
     }
 
-    area_update_objects();
+    area_update_objects(); scroll_textures();
     sActSelectorMenuTimer++;
     return sLoadedActNum;
 }
