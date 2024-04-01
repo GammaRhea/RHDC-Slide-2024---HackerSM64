@@ -138,8 +138,8 @@ Reach the Bottom\n\
 \n\
 Scoreboard:\n\
 50 Coins and Goal\n\
-0'44''0\n\
-"))
+0'43''9\n\
+Try to beat me!"))
 
 DEFINE_DIALOG(DIALOG_009, 1, 5, 30, 200, _("\
 Long time, no see! Wow,\n\
@@ -213,20 +213,65 @@ Do you want to Save?\n\
 \n\
 //You Bet//Not Now"))
 
-DEFINE_DIALOG(DIALOG_015, 1, 4, 30, 200, _("\
-You can punch enemies to\n\
-knock them down. Press [A]\n\
-to jump, [B] to punch.\n\
-Press [A] then [B] to Kick.\n\
-To pick something up,\n\
-press [B], too. To throw\n\
-something you're holding,\n\
-press [B] again."))
+DEFINE_DIALOG(DIALOG_015, 1, 6, 25, 200, _("\
+Hello, my name is Gamma\n\
+and thank you for\n\
+playing my first ever\n\
+romhack created for the\n\
+Simpleflips RHDC 2024\n\
+Slide Hack Competition!\n\
+I have always wanted to\n\
+enter one of these and\n\
+I'm glad to finally\n\
+join the romhacking\n\
+fun! This was my first\n\
+time using Blender\n\
+as well.\n\
+Also shoutouts\n\
+to PirateSoftware for\n\
+sponsoring this contest\n\
+and all the people in\n\
+the RHDC Discord for\n\
+for being helpful and\n\
+kind. Also shoutouts\n\
+to my friends,\n\
+ArcaneArboretum (who\n\
+also did their first\n\
+hack this contest),\n\
+MehUserName for\n\
+teaching me Blender,\n\
+NinjaWithAShovel for\n\
+moral support,\n\
+ShadowScarKnight for\n\
+the mushroom textures\n\
+and kind words,\n\
+KeebyMK, Breeachu\n\
+NekkoMeneko and\n\
+LadyMimikyu for their\n\
+words of encouragment,\n\
+IDKShrubs, Dominator,\n\
+Tyranus and Eliyahu\n\
+for their friendship!\n\
+I wouldnt be here\n\
+without all of you\n\
+cheering me on. Also\n\
+shoutouts to Rovert,\n\
+Bitlytic, and\n\
+JesusYoshi for your\n\
+tutorials for learning\n\
+all these whack ass\n\
+systems.\n\
+Peace!"))
 
 DEFINE_DIALOG(DIALOG_016, 1, 3, 30, 200, _("\
-Hop on the shiny shell and\n\
-ride wherever you want to\n\
-go! Shred those enemies!"))
+WARNING! WARNING!\n\
+Private Toadley told me\n\
+a strange report of a\n\
+'Hungry Rock' in the area.\n\
+Whatever that means, it\n\
+it can't be good, so stay\n\
+out!\n\
+~Sgt. Brotoad out!"))
 
 DEFINE_DIALOG(DIALOG_017, 1, 4, 30, 200, _("\
 I'm the Big Bob-omb, lord\n\
@@ -427,26 +472,11 @@ this has been the\n\
 Lakitu Bros."))
 
 DEFINE_DIALOG(DIALOG_035, 1, 5, 30, 200, _("\
-There are four camera, or\n\
-『[C],』 Buttons. Press [C]^\n\
-to look around using the\n\
-Control Stick.\n\
-\n\
-You'll usually see Mario\n\
-through Lakitu's camera.\n\
-It is the camera\n\
-recommended for normal\n\
-play.\n\
-You can change angles by\n\
-pressing [C]>. If you press\n\
-[R], the view switches to\n\
-Mario's camera, which\n\
-is directly behind him.\n\
-Press [R] again to return\n\
-to Lakitu's camera. Press\n\
-[C]| to see Mario from\n\
-afar, using either\n\
-Lakitu's or Mario's view."))
+OUT TO LUNCH\n\
+The Toad Shop will be open\n\
+again another day, but\n\
+not Toad-day heh...\n\
+~Toadah T Toadason."))
 
 DEFINE_DIALOG(DIALOG_036, 1, 5, 30, 200, _("\
 OBSERVATION PLATFORM\n\
@@ -1000,23 +1030,27 @@ awful prison!\n\
 Please!"))
 
 DEFINE_DIALOG(DIALOG_076, 1, 6, 30, 200, _("\
-Thanks to the power of\n\
-the Stars, life is\n\
-returning to the castle.\n\
-Please, Mario, you have\n\
-to give Bowser the boot!\n\
-\n\
-Here, let me tell you a\n\
-little something about the\n\
-castle. In the room with\n\
-the mirrors, look carefully\n\
-for anything that's not\n\
-reflected in the mirror.\n\
-And when you go to the\n\
-water town, you can flood\n\
-it with a high jump into\n\
-the painting. Oh, by the\n\
-way, look what I found!"))
+Come to check out my\n\
+sand castle bro? Look at\n\
+it, perfect sand castle\n\
+right there. Made in the\n\
+finest untouched sand of\n\
+the Sorbet Isles, this\n\
+beauty could withstand\n\
+any sand army attack,\n\
+weather any siege from\n\
+a foreign beach nation,\n\
+truly it will go down in\n\
+the annuls of seaboard\n\
+history. Thanks for\n\
+listening to me talk for\n\
+a while, since I built on\n\
+the secluded part of the\n\
+beach its been pretty\n\
+lonely out here. Here take\n\
+this as a thanks from me,\n\
+and may your castles\n\
+always be sandy."))
 
 DEFINE_DIALOG(DIALOG_077, 1, 2, 150, 200, _("\
 It is decreed that one\n\
@@ -1059,34 +1093,34 @@ with the depth they bring\n\
 as they enter."))
 
 DEFINE_DIALOG(DIALOG_082, 1, 4, 30, 200, _("\
-Hold on to your hat! If\n\
-you lose it, you'll be\n\
-injured easily.\n\
-\n\
-If you do lose your Cap,\n\
-you'll have to find it in\n\
-the course where you\n\
-lost it.\n\
-Oh, boy, it's not looking\n\
-good for Peach. She's\n\
-still trapped somewhere\n\
-inside the walls.\n\
-Please, Mario, you have\n\
-to help her! Did you know\n\
-that there are enemy\n\
-worlds inside the walls?\n\
-Yup. It's true. Bowser's\n\
-troops are there, too.\n\
-Oh, here, take this. I've\n\
-been keeping it for you."))
+Well well well, if it\n\
+isn't one of those goodie\n\
+goodie Mario Brothers. I\n\
+thought if I left the\n\
+Mushroom Kingdom I\n\
+wouldn't have to worry\n\
+about the princess's\n\
+toadies come looking for\n\
+me. Say, if I grease your\n\
+palms a bit, think you\n\
+could pretend you\n\
+didn't see anything?\n\
+This should tide you\n\
+over. Now scram Red,\n\
+you're interfering\n\
+with business hours."))
 
 DEFINE_DIALOG(DIALOG_083, 1, 6, 30, 200, _("\
-There's something strange\n\
-about that clock. As you\n\
-jump inside, watch the\n\
-position of the big hand.\n\
-Oh, look what I found!\n\
-Here, Mario, catch!"))
+Huh, I didn't think\n\
+anyone else would climb\n\
+up here like I did! You\n\
+must really like jumping\n\
+puzzles huh? Well here,\n\
+take this as a kindred\n\
+spirit. It's not every\n\
+day you get enjoy a\n\
+sight this this pretty\n\
+from this high up."))
 
 DEFINE_DIALOG(DIALOG_084, 1, 3, 30, 200, _("\
 Yeeoww! Unhand me,\n\
@@ -1566,118 +1600,122 @@ disqualified! Next time,\n\
 play fair!"))
 
 DEFINE_DIALOG(DIALOG_133, 1, 6, 30, 200, _("\
-Am I glad to see you! The\n\
-Princess...and I...and,\n\
-well, everybody...we're all\n\
-trapped inside the castle\n\
-walls.\n\
-\n\
-Bowser has stolen the\n\
-castle's Stars, and he's\n\
-using their power to\n\
-create his own world in\n\
-the paintings and walls.\n\
-\n\
-Please recover the Power\n\
-Stars! As you find them,\n\
-you can use their power\n\
-to open the doors that\n\
-Bowser has sealed.\n\
-\n\
-There are four rooms on\n\
-the first floor. Start in\n\
-the one with the painting\n\
-of Bob-omb inside. It's\n\
-the only room that Bowser\n\
-hasn't sealed.\n\
-When you collect eight\n\
-Power Stars, you'll be\n\
-able to open the door\n\
-with the big star. The\n\
-Princess must be inside!"))
+Hey Mario! I'm glad you\n\
+finally took my advice\n\
+and came to vacation\n\
+on the Sorbet Isles!\n\
+This little slice of\n\
+heaven kind of reminds\n\
+me of Isle Delphino.\n\
+That said, you look\n\
+like you could use a\n\
+break! I mean look at\n\
+those leg muscles! I\n\
+bet if you jumped and\n\
+pressed the [Z] button\n\
+to ground pound and\n\
+then pressed the [B]\n\
+button you could dive\n\
+through the air like\n\
+the majestic beast\n\
+you are!\n\
+...\n\
+What were we talking\n\
+about again? Oh well\n\
+when you feel tired\n\
+feel free to enter\n\
+the blue building\n\
+next to me to take\n\
+a nap. Hopefully\n\
+you'll have sweet\n\
+dreams!"))
 
 DEFINE_DIALOG(DIALOG_134, 1, 5, 30, 200, _("\
-The names of the Stars\n\
-are also hints for\n\
-finding them. They are\n\
-displayed at the beginning\n\
-of each course.\n\
-You can collect the Stars\n\
-in any order. You won't\n\
-find some Stars, enemies\n\
-or items unless you select\n\
-a specific Star.\n\
-After you collect some\n\
-Stars, you can try\n\
-another course.\n\
-We're all waiting for\n\
-your help!"))
+Hey Mario! What got you\n\
+out to the Isles? Wow, I\n\
+feel a little starstruck\n\
+getting to chat with a\n\
+celeb like you! Well if\n\
+anything looks good to you\n\
+just lemme know, first one\n\
+is on the house, I've got\n\
+Jelly Donuts and Burgers\n\
+and despite what people\n\
+may say, they have\n\
+always been on my menu!\n\
+The notion that I added\n\
+them retroactively to\n\
+the menu after a write\n\
+in from Victuratoad is\n\
+just silly. Hmm, this\n\
+is giving you Deja Vu?\n\
+Maybe you should go lay\n\
+down for a bit there\n\
+friend :)"))
 
 DEFINE_DIALOG(DIALOG_135, 1, 5, 30, 200, _("\
-It was Bowser who stole\n\
-the Stars. I saw him with\n\
-my own eyes!\n\
-\n\
-\n\
-He's hidden six Stars in\n\
-each course, but you\n\
-won't find all of them in\n\
-some courses until you\n\
-press the Cap Switches.\n\
-The Stars you've found\n\
-will show on each course's\n\
-starting screen.\n\
-\n\
-\n\
-If you want to see some\n\
-of the enemies you've\n\
-already defeated, select\n\
-the Stars you recovered\n\
-from them."))
+This resort is a scam, I\n\
+got assigned to move this\n\
+cargo to the Sorbet Isles\n\
+and thought I was in for\n\
+a cushy time, but the\n\
+shops are closed and my\n\
+boss has been on my butt\n\
+to move these boxes into\n\
+the alleyway. I can't\n\
+wait to finish up and\n\
+hit the hay in the\n\
+hotel in the center of\n\
+market plaza. Hmm?\n\
+Whats in the cargo?\n\
+Buddy they don't pay me\n\
+to ask questions, I got\n\
+no idea. My boss should\n\
+be around the alley\n\
+somewhere, but he might\n\
+not show till you've\n\
+got some star power.\n\
+In fact, there a\n\
+couple toads that only\n\
+show when you've got\n\
+some glitz on you, if\n\
+you catch my drift?"))
 
 DEFINE_DIALOG(DIALOG_136, 1, 6, 30, 200, _("\
-Wow! You've already\n\
-recovered that many\n\
-Stars? Way to go, Mario!\n\
-I'll bet you'll have us out\n\
-of here in no time!\n\
-\n\
-Be careful, though.\n\
-Bowser and his band\n\
-wrote the book on 『bad.』\n\
-Take my advice: When you\n\
-need to recover from\n\
-injuries, collect coins.\n\
-Yellow Coins refill one\n\
-piece of the Power Meter,\n\
-Red Coins refill two\n\
-pieces, and Blue Coins\n\
-refill five.\n\
-\n\
-To make Blue Coins\n\
-appear, pound on Blue\n\
-Coin Blocks.\n\
-\n\
-\n\
-\n\
-Also, if you fall from\n\
-high places, you'll\n\
-minimize damage if you\n\
-Pound the Ground as you\n\
-land."))
+Oh hello there, sorry\n\
+about the mess. We would\n\
+normally have baskets of\n\
+fruit for sale but we ran\n\
+out of our most popular\n\
+item, Star Fruit! My\n\
+friend went to go get\n\
+more but he's been out\n\
+for a while, hopefully\n\
+he'll get back soon so\n\
+we can open up. If it's\n\
+not too much trouble\n\
+think you could go in\n\
+the pipe and look for\n\
+him? If you do I'll give\n\
+you an Endurian. What's\n\
+an 'Endurian' you ask?\n\
+Well its only an Isle\n\
+Delicacy! You have to\n\
+try it afterwards."))
 
 DEFINE_DIALOG(DIALOG_137, 1, 6, 30, 200, _("\
-Thanks, Mario! The castle\n\
-is recovering its energy\n\
-as you retrieve Power\n\
-Stars, and you've chased\n\
-Bowser right out of here,\n\
-on to some area ahead.\n\
-Oh, by the by, are you\n\
-collecting coins? Special\n\
-Stars appear when you\n\
-collect 100 coins in each\n\
-of the 15 courses!"))
+Hey brosky, you ever\n\
+just chill and enjoy the\n\
+surf? Sometimes you just\n\
+need a day on the beach\n\
+to put life into focus,\n\
+ya feelin' me? Really\n\
+makes my worries just\n\
+melt away. I might be\n\
+struggling to make end's\n\
+meet, but at least the\n\
+ocean will never care,\n\
+you know?"))
 
 DEFINE_DIALOG(DIALOG_138, 1, 3, 30, 200, _("\
 Down: Underground Lake\n\
@@ -1692,13 +1730,10 @@ pre-set course.\n\
 It disappears\n\
 automatically, too."))
 
-DEFINE_DIALOG(DIALOG_140, 1, 6, 30, 200, _("\
-Elevator Area\n\
-Right: Hazy Maze\n\
-/// Entrance\n\
-Left: Black Hole\n\
-///Elevator 1\n\
-Arrow: You are here"))
+DEFINE_DIALOG(DIALOG_140, 1, 3, 30, 200, _("\
+Endurian your ass getting\n\
+pounded! LMAO GOT EM!\n\
+..."))
 
 DEFINE_DIALOG(DIALOG_141, 1, 5, 150, 200, _("\
 You've recovered one of\n\
@@ -1879,45 +1914,32 @@ bugging me! I think I'll\n\
 blow it away!"))
 
 DEFINE_DIALOG(DIALOG_154, 1, 5, 30, 200, _("\
-Hold on to your hat! If\n\
-you lose it, you'll be\n\
-easily injured. If you\n\
-lose it, look for it in the\n\
-course where you lost it.\n\
-Speaking of lost, the\n\
-Princess is still stuck in\n\
-the walls somewhere.\n\
-Please help, Mario!\n\
-\n\
-Oh, you know that there\n\
-are secret worlds in the\n\
-walls as well as in the\n\
-paintings, right?"))
+What're you doing back\n\
+here Red? You like\n\
+wastin' your time in\n\
+this alleyway or are you\n\
+just busting my chops?\n\
+I paid my dues, so beat\n\
+it!"))
 
 DEFINE_DIALOG(DIALOG_155, 1, 6, 30, 200, _("\
-Thanks to the power of\n\
-the Stars, life is\n\
-returning to the castle.\n\
-Please, Mario, you have\n\
-to give Bowser the boot!\n\
-\n\
-Here, let me tell you a\n\
-little something about the\n\
-castle. In the room with\n\
-the mirrors, look carefully\n\
-for anything that's not\n\
-reflected in the mirror.\n\
-And when you go to the\n\
-water town, you can flood\n\
-it with a high jump into\n\
-the painting."))
+Oh hey friend, thanks for\n\
+coming to check on me.\n\
+I appreciate it, the beach\n\
+is more fun with someone\n\
+to share it with, huh?\n\
+Make sure to have fun\n\
+today, and like my dad\n\
+always says, ''brush your\n\
+teeth bitch.'' Aww, what\n\
+a great entertainer he is."))
 
 DEFINE_DIALOG(DIALOG_156, 1, 5, 30, 200, _("\
-The world inside the\n\
-clock is so strange!\n\
-When you jump inside,\n\
-watch the position of\n\
-the big hand!"))
+Woah! You climbed up\n\
+here again?! You must\n\
+really love jumping,\n\
+or really need a hobby\n\
+..."))
 
 DEFINE_DIALOG(DIALOG_157, 1, 5, 30, 200, _("\
 Watch out! Don't let\n\

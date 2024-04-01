@@ -1,0 +1,2 @@
+extern void scroll_castle_grounds_dl_We_do_a_little_trolling_mesh_layer_1_vtx_0();
+extern void scroll_castle_grounds();
