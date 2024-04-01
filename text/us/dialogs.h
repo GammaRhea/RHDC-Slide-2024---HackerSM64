@@ -47,23 +47,10 @@ Please come back to see\n\
 me after you've retrieved\n\
 the Power Star!"))
 
-DEFINE_DIALOG(DIALOG_002, 1, 4, 95, 200, _("\
-Hey, you! It's dangerous\n\
-ahead, so listen up! Take\n\
-my advice.\n\
-\n\
-Cross the two\n\
-bridges ahead, then\n\
-watch for falling\n\
-water bombs.\n\
-The Big Bob-omb at the\n\
-top of the mountain is\n\
-very powerful--don't let\n\
-him grab you!\n\
-We're Bob-omb Buddies,\n\
-and we're on your side.\n\
-You can talk to us\n\
-whenever you'd like to!"))
+DEFINE_DIALOG(DIALOG_002, 1, 3, 95, 200, _("\
+Endurian your ass getting\n\
+pounded! LMAO GOT EM!\n\
+..."))
 
 DEFINE_DIALOG(DIALOG_003, 1, 5, 95, 200, _("\
 Thank you, Mario! The Big\n\
@@ -260,8 +247,19 @@ Bitlytic, and\n\
 JesusYoshi for your\n\
 tutorials for learning\n\
 all these whack ass\n\
-systems.\n\
-Peace!"))
+systems. There are\n\
+7 Stars to collect in\n\
+total, but you\n\
+don't need to collect\n\
+any of them to see the\n\
+end screen, just head\n\
+into the blue hotel\n\
+building door once\n\
+you seen everything.\n\
+There's 2 stars in\n\
+two levels, and\n\
+3 Toad Stars in the\n\
+Hub level. Peace!"))
 
 DEFINE_DIALOG(DIALOG_016, 1, 3, 30, 200, _("\
 WARNING! WARNING!\n\
@@ -299,15 +297,38 @@ the back and hurl me to\n\
 this royal turf? I think\n\
 that you cannot!"))
 
-DEFINE_DIALOG(DIALOG_018, 1, 4, 30, 200, _("\
-I'm sleeping because...\n\
-...I'm sleepy. I don't\n\
-like being disturbed.\n\
-Please walk quietly."))
+DEFINE_DIALOG(DIALOG_018, 1, 5, 30, 200, _("\
+Welcome to the Rainbow\n\
+Road Slide! This stage\n\
+is a straightforward\n\
+sprint to the finish\n\
+with plenty of coins.\n\
+However, if you're\n\
+aiming for a speedy\n\
+time you might want to\n\
+avoid the shiny allure\n\
+of the coins, the star\n\
+spawning will slow you\n\
+down in your mad dash\n\
+to the finish."))
 
-DEFINE_DIALOG(DIALOG_019, 1, 2, 30, 200, _("\
-Shhh! Please walk\n\
-quietly in the hallway!"))
+DEFINE_DIALOG(DIALOG_019, 1, 4, 30, 200, _("\
+Its Rainbow Road it's\n\
+where you go when y-\n\
+Oh sorry, didn't see\n\
+you there, ahem. Did\n\
+you manage to collect\n\
+50 coins on the way\n\
+down here?\n\
+...\n\
+Scoreboard:\n\
+Reach the Bottom\n\
+0'28''5\n\
+...\n\
+Scoreboard:\n\
+50 Coins and Goal\n\
+0'36''6\n\
+Try and beat me!"))
 
 DEFINE_DIALOG(DIALOG_020, 1, 6, 95, 150, _("\
 Dear Mario:\n\

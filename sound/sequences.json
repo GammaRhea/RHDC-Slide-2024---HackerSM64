@@ -31,9 +31,6 @@
     "07_level_boss_koopa": [
         "12"
     ],
-    "08_level_snow": [
-        "0B"
-    ],
     "0A_level_spooky": [
         "10",
         "21"
@@ -122,5 +119,8 @@
     ],
     "03_level_grass": [
         "gelato_beach"
+    ],
+    "08_level_snow": [
+        "rainbow_road"
     ]
 }
