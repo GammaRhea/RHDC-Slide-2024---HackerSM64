@@ -1,0 +1,16 @@
+extern Lights1 SorbetTitle_f3dlite_material_001_layer1_lights;
+extern Lights1 SorbetTitle_f3dlite_material_lights;
+extern u8 SorbetTitle_tex1_128x128_m_250dfe700109394c_14_mip2_ci8[];
+extern u8 SorbetTitle_tex1_128x128_m_250dfe700109394c_14_mip2_pal_rgba16[];
+extern u8 SorbetTitle_SUPER_MARIO_64_3EC818DE_0_2_all_ci8[];
+extern u8 SorbetTitle_SUPER_MARIO_64_3EC818DE_0_2_all_pal_rgba16[];
+extern Vtx SorbetTitle_SorbetTitle_mesh_vtx_cull[8];
+extern Vtx SorbetTitle_SorbetTitle_mesh_vtx_0[582];
+extern Gfx SorbetTitle_SorbetTitle_mesh_tri_0[];
+extern Vtx SorbetTitle_SorbetTitle_mesh_vtx_1[407];
+extern Gfx SorbetTitle_SorbetTitle_mesh_tri_1[];
+extern Gfx mat_SorbetTitle_f3dlite_material_001_layer1[];
+extern Gfx mat_revert_SorbetTitle_f3dlite_material_001_layer1[];
+extern Gfx mat_SorbetTitle_f3dlite_material[];
+extern Gfx mat_revert_SorbetTitle_f3dlite_material[];
+extern Gfx SorbetTitle_SorbetTitle_mesh[];
