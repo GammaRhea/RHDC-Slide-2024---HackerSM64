@@ -52,21 +52,9 @@ Endurian your ass getting\n\
 pounded! LMAO GOT EM!\n\
 ..."))
 
-DEFINE_DIALOG(DIALOG_003, 1, 5, 95, 200, _("\
-Thank you, Mario! The Big\n\
-Bob-omb is nothing but a\n\
-big dud now! But the\n\
-battle for the castle has\n\
-just begun.\n\
-Other enemies are holding\n\
-the other Power Stars. If\n\
-you recover more Stars,\n\
-you can open new doors\n\
-that lead to new worlds!\n\
-My Bob-omb Buddies are\n\
-waiting for you. Be sure\n\
-to talk to them--they'll\n\
-set up cannons for you."))
+DEFINE_DIALOG(DIALOG_003, 1, 2, 95, 200, _("\
+But you're like, not\n\
+even subscribed yet???"))
 
 DEFINE_DIALOG(DIALOG_004, 1, 3, 95, 200, _("\
 We're peace-loving\n\
@@ -500,20 +488,15 @@ not Toad-day heh...\n\
 ~Toadah T Toadason."))
 
 DEFINE_DIALOG(DIALOG_036, 1, 5, 30, 200, _("\
-OBSERVATION PLATFORM\n\
-Press [C]^ to take a look\n\
-around. Don't miss\n\
-anything!\n\
-\n\
-Press [R] to switch to\n\
-Mario's camera. It\n\
-always follows Mario.\n\
-Press [R] again to switch\n\
-to Lakitu's camera.\n\
-Pause the game and\n\
-switch the mode to 『fix』\n\
-the camera in place while\n\
-holding [R]. Give it a try!"))
+(Theres a note on the\n\
+side of the door)\n\
+10 percent Luck...\n\
+15 percent CPAW...\n\
+5 percent Pleasure...\n\
+50 percent Pain...\n\
+100 percent Reason to\n\
+Remember the name...\n\
+Does this add up to 100?"))
 
 DEFINE_DIALOG(DIALOG_037, 1, 2, 30, 200, _("\
 I win! You lose!\n\
@@ -1757,33 +1740,22 @@ pounded! LMAO GOT EM!\n\
 ..."))
 
 DEFINE_DIALOG(DIALOG_141, 1, 5, 150, 200, _("\
-You've recovered one of\n\
-the stolen Power Stars!\n\
-Now you can open some of\n\
-the sealed doors in the\n\
-castle.\n\
-Try the Princess's room\n\
-on the second floor and\n\
-the room with the\n\
-painting of Whomp's\n\
-Fortress on Floor 1.\n\
-Bowser's troops are still\n\
-gaining power, so you\n\
-can't give up. Save us,\n\
-Mario! Keep searching for\n\
-Stars!"))
+You found a Power Star\n\
+on the Sorbet Isles.\n\
+These shine with a warm\n\
+glow that makes you want\n\
+to hit the waves."))
 
 DEFINE_DIALOG(DIALOG_142, 1, 5, 150, 200, _("\
-You've recovered three\n\
-Power Stars! Now you can\n\
-open any door with a 3\n\
-on its star.\n\
-\n\
-You can come and go from\n\
-the open courses as you\n\
-please. The enemies ahead\n\
-are even meaner, so be\n\
-careful!"))
+Rumor has it theres gold\n\
+in the hills of Sorbet\n\
+Isles, but be careful\n\
+many a hiker has slipped\n\
+and fell on its rocky\n\
+spires. But you've got\n\
+3 Sorbet Stars now, so\n\
+you're no ordinary guest\n\
+are you?"))
 
 DEFINE_DIALOG(DIALOG_143, 1, 6, 150, 200, _("\
 You've recovered eight of\n\

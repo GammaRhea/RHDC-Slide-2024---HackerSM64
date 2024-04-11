@@ -5,7 +5,7 @@ include util.mk
 # Default target
 default: all
 
-TARGET_STRING := sorbet_isles
+TARGET_STRING := SorbetIsles
 
 # Preprocessor definitions
 DEFINES :=
